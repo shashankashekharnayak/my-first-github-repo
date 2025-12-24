@@ -4,7 +4,7 @@
 
 Learnt basic terminologies:
 Repository
-Clone
+Clone\n
 Stage
 Commit
 Branch
@@ -22,3 +22,9 @@ Connected with my LINUX mint CLI using token autentication
 Created new repository
 Connected it with VS CODE
 Creted this readme 
+
+
+# Commit 2 
+
+Trying a second commit tried push and pull
+

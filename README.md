@@ -28,3 +28,8 @@ Creted this readme
 
 Trying a second commit tried push and pull
 
+# use cases explored
+
+It makes sharing and collaboration of projects easy
+Reduces chances of error with features like branching and tagging
+Tagging makes monitoring of projects easier
